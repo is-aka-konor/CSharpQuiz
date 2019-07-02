@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using CSharpQuiz.Questions.BonusQuestion_2.Models;
 
 namespace CSharpQuiz.Questions.BonusQuestion_2

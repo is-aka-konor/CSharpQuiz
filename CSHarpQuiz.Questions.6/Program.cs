@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Threading;
 using System.Threading.Tasks;
 
-namespace CSHarpQuiz.Questions._6
+namespace CSharpQuiz.Questions._6
 {
     class Program
     {

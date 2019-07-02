@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSHarpQuiz.Questions._5
+namespace CSharpQuiz.Questions._5
 {
     class Program
     {

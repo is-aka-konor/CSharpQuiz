@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Drawing;
-using System.Numerics;
 
 namespace CSharpQuiz.Questions._10
 {
@@ -12,10 +10,6 @@ namespace CSharpQuiz.Questions._10
             var result = date == null ? "Yep" : "Nope";
             Console.WriteLine(result);
             Console.ReadLine();
-
-            var tmp = new Point();
-            var tmp2 = new Vector2();
-            var tmp3 = new Matrix3x2();
 
         }
     }
