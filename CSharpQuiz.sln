@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpQuiz.Questions._Bonus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpQuiz.Questions.BonusQuestion_2", "CSharpQuiz.Questions.BonusQuestion_2\CSharpQuiz.Questions.BonusQuestion_2.csproj", "{4BCC3F7B-037B-4F0F-9794-DAE207BDFB9A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpQuiz.Questions.11", "CSharpQuiz.Questions.11\CSharpQuiz.Questions.11.csproj", "{9C27B181-BCBB-4EC8-98C5-392E983E4161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpQuiz.Questions.12", "CSharpQuiz.Questions.12\CSharpQuiz.Questions.12.csproj", "{4BD1165C-EA25-4C2D-8B5A-E4A5E4DF108E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{4BCC3F7B-037B-4F0F-9794-DAE207BDFB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BCC3F7B-037B-4F0F-9794-DAE207BDFB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BCC3F7B-037B-4F0F-9794-DAE207BDFB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C27B181-BCBB-4EC8-98C5-392E983E4161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C27B181-BCBB-4EC8-98C5-392E983E4161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C27B181-BCBB-4EC8-98C5-392E983E4161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C27B181-BCBB-4EC8-98C5-392E983E4161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD1165C-EA25-4C2D-8B5A-E4A5E4DF108E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD1165C-EA25-4C2D-8B5A-E4A5E4DF108E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD1165C-EA25-4C2D-8B5A-E4A5E4DF108E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD1165C-EA25-4C2D-8B5A-E4A5E4DF108E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
